@@ -1,0 +1,16 @@
+[
+    {
+        name: "Program 1",
+        programId: 1,
+        utilityId: 1,
+        defaultGroup: 1,
+        supportedManufacturers: ["NEST", "ECOBEE", "HONEYWELL"]
+    },
+    {
+        name: "Program 2",
+        programId: 2,
+        utilityId: 2,
+        defaultGroup: 2,
+        supportedManufacturers: ["NEST", "ECOBEE"]
+    }
+]

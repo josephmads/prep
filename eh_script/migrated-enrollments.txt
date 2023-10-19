@@ -1,0 +1,3 @@
+[{defaultGroup: 1, name: Program 1, programId: 1, supportedManufacturers: [NEST, ECOBEE,
+      HONEYWELL], utilityId: 1}, {defaultGroup: 2, name: Program 2, programId: 2,
+    supportedManufacturers: [NEST, ECOBEE], utilityId: 2}]

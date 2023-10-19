@@ -1,0 +1,3 @@
+[{group: 2, manufacturer: NEST, uuid: abc123}, {group: 2, manufacturer: ECOBEE, uuid: efg123},
+  {group: 2, manufacturer: NEST, uuid: abc456}, {group: 1, manufacturer: HONEYWELL,
+    uuid: xyz123}, {group: 2, manufacturer: ECOBEE, uuid: jfk456}]

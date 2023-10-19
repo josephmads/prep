@@ -1,0 +1,61 @@
+[
+    {
+        firstName: "Jim",
+        lastName: "Jimmerson",
+        address: "123 Abc Way, Unit 1",
+        zipCode: 12345,
+        programId: 1,
+        devices: [
+            {
+                manufacturer: "NEST",
+                uuid: abc123
+            }
+            
+        ]
+    },
+    {
+        firstName: "Jill",
+        lastName: "Jillerson",
+        address: "123 Abc Way, Unit 2",
+        zipCode: 12345,
+        programId: 1,
+        devices: [
+            {
+                manufacturer: "ECOBEE",
+                uuid: efg123
+            }
+            
+        ]
+    },
+    {
+        firstName: "Jay",
+        lastName: "Doe",
+        address: "123 Abc Way, Unit 3",
+        zipCode: 12345,
+        programId: 1,
+        devices: [
+            {
+                manufacturer: "NEST",
+                uuid: abc456
+            }
+            
+        ]
+    },
+    {
+        firstName: "Jean",
+        lastName: "Day",
+        address: "123 Abc Way, Unit 4",
+        zipCode: 12345,
+        programId: 1,
+        devices: [
+            {
+                manufacturer: "HONEYWELL",
+                uuid: xyz123
+            },
+            {
+                manufacturer: "ECOBEE",
+                uuid: jfk456
+            }
+        ]
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        manufacturer: "NEST",
+        uuid: "abc123",
+        group: 1
+    },
+    {
+        manufacturer: "ECOBEE",
+        uuid: "efg123",
+        group: 2
+    },
+    {
+        manufacturer: "NEST",
+        uuid: "abc456",
+        group: 1
+    },
+    {
+        manufacturer: "HONEYWELL",
+        uuid: "xyz123",
+        group: 3
+    },
+    {
+        manufacturer: "ECOBEE",
+        uuid: "jfk456", 
+        group: 2
+    }
+]
