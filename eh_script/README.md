@@ -89,3 +89,9 @@ Delivery Instructions:
 - Send a link to the PR back to the EnergyHub recruiting team
 
 ## My Script
+
+To run this script:
+
+- make sure that the variables using the `read_in_data()` are pointing to the correct files
+- make sure the `write out` functions are using the desired name for the new files
+- from the terminal run `python3 script.py` while in the working directory
